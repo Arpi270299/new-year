@@ -1,7 +1,101 @@
+/* common shared styles */
+body{
+    font-family: Merriweather;
+    font-family: Merriweather;
+}
 /* nav related styles */
 nav {
-    display: internal
+    .banner-title{
+        color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+    }
+    .landing-page{
+        background: #FFF;
+    }
 }
+.banner-pic{
+    padding-top: 50px;
+    padding-right: 140px;
+    padding-left: 140px;
+    border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+
+
+
+
+}
+
+/* offer section styles */
+.offer-percentage{
+    padding-top: 120px ;
+    padding-right:608px;
+    padding-left: 609px;
+    background: #FFF;
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.offer-moto{
+    padding-top: 6px;
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.offer-categories{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.new-year-pic{
+    padding-left: 500px;
+    padding-right: 250px;
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
 
 
 
