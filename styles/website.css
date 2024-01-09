@@ -158,7 +158,7 @@ text-transform: uppercase;
 
 }
 
-/* portfolio related styles */
+/* portfolio text related styles */
 
 .gifts-quality{
     margin-left: 500px;
@@ -173,6 +173,9 @@ line-height: normal;
 
 /* portfolio related styles */
 .portfolio-bag{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
     width: 424px;
 height: 450px;
 flex-shrink: 0;
@@ -182,6 +185,9 @@ background: lightgray 0px -35.755px / 100% 142.115% no-repeat;
 }
 
 .portfolio-purse{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
     width: 424px;
 height: 450px;
 flex-shrink: 0;
@@ -193,6 +199,9 @@ background: lightgray 50% / cover no-repeat;
 .portfolio-red-shoe{
     width: 424px;
 height: 450px;
+margin-bottom: 10px;
+margin-left: 10px;
+margin-right: 10px;
 flex-shrink: 0;
 border-radius: 16px;
 background:  lightgray 50% / cover no-repeat;
@@ -202,14 +211,18 @@ background:  lightgray 50% / cover no-repeat;
 .portfolio-white-shoe{
     width: 424px;
 height: 450px;
-padding : 24;
+margin-bottom: 10px;
+margin-left: 10px;
+margin-right: 10px;
 flex-shrink: 0;
 border-radius: 16px;
 background:lightgray -195.366px 0px / 156.077% 100% no-repeat;
 
 }
 .portfolio-glasses{
-    padding : 24;
+    margin-bottom : 10px;
+    margin-right: 10px;
+    margin-left: 10px;
     width: 424px;
 height: 450px;
 flex-shrink: 0;
@@ -218,7 +231,9 @@ background: lightgray 50% / cover no-repeat;
 
 }
 .portfolio-bangles{
-    padding : 24;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-left: 10px;
     width: 424px;
 height: 450px;
 flex-shrink: 0;
