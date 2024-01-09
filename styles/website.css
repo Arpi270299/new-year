@@ -135,7 +135,7 @@ line-height: 30px; /* 166.667% */
 justify-content: space-between;
 
 .joining-invitation{
-    color: #FFF;
+    color: #FFF
 text-align: center;
 font-family: Inter;
 font-size: 20px;
@@ -150,7 +150,7 @@ text-transform: uppercase;
 }
 
 .location{
-    padding: 200px;
+    padding: 300px;
     width: 1320px;
     height: 482px;
     flex-shrink: 0;
@@ -158,9 +158,74 @@ text-transform: uppercase;
 
 }
 
+/* portfolio related styles */
+
+.gifts-quality{
+    margin-left: 500px;
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
 }
 
+/* portfolio related styles */
+.portfolio-bag{
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background: lightgray 0px -35.755px / 100% 142.115% no-repeat;
 
+}
+
+.portfolio-purse{
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background: lightgray 50% / cover no-repeat;
+
+}
+
+.portfolio-red-shoe{
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background:  lightgray 50% / cover no-repeat;
+
+}
+
+.portfolio-white-shoe{
+    width: 424px;
+height: 450px;
+padding : 24;
+flex-shrink: 0;
+border-radius: 16px;
+background:lightgray -195.366px 0px / 156.077% 100% no-repeat;
+
+}
+.portfolio-glasses{
+    padding : 24;
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background: lightgray 50% / cover no-repeat;
+
+}
+.portfolio-bangles{
+    padding : 24;
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background:lightgray 50% / cover no-repeat;
+
+}
 
 
 
